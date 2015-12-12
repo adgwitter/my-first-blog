@@ -1,0 +1,13 @@
+<html>
+    <head>
+        <title>Adgwitter's blog</title>
+    </head>
+    <h1>Adgwitter's blog</h1>
+    <h2>Just another Django Girl's blog</h2>
+    <body>
+    <p>Hi there!</p>
+    <p>It works!</p>
+    </body>
+</html>
+
+
